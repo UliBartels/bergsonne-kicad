@@ -7,7 +7,7 @@
 		(at 0 -2.8 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "2e637ff5-5e1f-46b7-bab0-74229f55aac1")
+		(uuid "12a66e0a-569e-4154-8c5f-07133bdb7fc3")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +20,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "5eb3dda7-726f-425e-934b-ab22c36c5ec1")
+		(uuid "9a0fe68a-ec82-4428-abc8-4db275ba6982")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "2cc9b33a-5837-4cc7-b990-d9c1fb747823")
+		(uuid "83a6c89a-d819-4a73-9a0b-abdad8e74714")
 		(effects
 			(font
 				(size 1 1)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "dc3fe726-9777-4884-9188-db81edf8d85d")
+		(uuid "5defa330-9248-4d53-b620-27994ecd0e10")
 		(effects
 			(font
 				(size 1 1)
@@ -227,6 +227,56 @@
 		)
 		(layer "Cmts.User")
 		(uuid "7221a82e-2bcf-4c1e-8832-3d2d25297e75")
+	)
+	(fp_line
+		(start 2.5 5)
+		(end 2.75 4.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "5352d672-ae3a-4239-b378-03dfcdf27ed6")
+	)
+	(fp_line
+		(start 2.5 5)
+		(end 2.75 5.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "8daa427e-536a-488d-92df-75a394b482d1")
+	)
+	(fp_line
+		(start 2.5 5)
+		(end 7 5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "5ad3df25-d75e-4fac-91cd-a43264f828ab")
+	)
+	(fp_line
+		(start 6.75 4.75)
+		(end 7 5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "8f015144-3dcc-489d-b43d-158e7dc342ae")
+	)
+	(fp_line
+		(start 6.75 5.25)
+		(end 7 5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "aaf6c11c-dbf3-480f-b559-cd2c3b3c770e")
 	)
 	(fp_line
 		(start -7.25 3.5)
@@ -593,7 +643,7 @@
 		)
 		(uuid "8c73e81b-df59-466b-9bed-92f99768294f")
 		(name "Antenna_Keepout")
-		(hatch edge 0.5)
+		(hatch full 0.5)
 		(connect_pads
 			(clearance 0)
 		)
