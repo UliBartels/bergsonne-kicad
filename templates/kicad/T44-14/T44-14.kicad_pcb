@@ -1320,7 +1320,7 @@
 			(justify left)
 		)
 	)
-	(gr_text "P10"
+	(gr_text "P12"
 		(at -0.4 -2 90)
 		(layer "Cmts.User")
 		(uuid "8e9d87b2-c42d-4a48-9d8e-b9e872fc0e61")
